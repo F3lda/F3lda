@@ -2,8 +2,9 @@
 
 ### My Skills
 - C/C++, PHP, JavaScript
-- Python, Java, SQL
+- Python, Java, SQL, Bash
 - Arduino, RaspberryPi
+- Switching, Routing, Wireless
 
 ### Focusing on
 - IoT, Embedded Systems
@@ -12,7 +13,7 @@
 
 ### Projects
 - [GvidApp](https://github.com/F3lda/GvidApp)
-- [SIM900 Gate Controller](https://github.com/F3lda/arduino-SIM900_example)
+- [SIM900 Gate Controller](https://github.com/F3lda/arduino-SIM900_example/tree/master/examples/SIM900_gate)
 
 <!--
 ### Working on
