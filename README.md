@@ -1,8 +1,22 @@
 # Hello world! 👋
 
-### ✨ Welcome to my GitHub profile! ✨
+### Skills
+- C/C++, PHP, JavaScript
+- Python, Java, SQL
+- Arduino, RaspberryPi
+
+### Focus on
+- IoT, Embedded Systems
+- Networking
+- Backend
+
+### Projects
+- [GvidApp](https://github.com/F3lda/GvidApp)
+- [SIM900 Gate Controller](https://github.com/F3lda/arduino-SIM900_example)
 
 <!--
+### ✨ Welcome to my GitHub profile! ✨
+
 **F3lda/F3lda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
