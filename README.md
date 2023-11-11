@@ -9,7 +9,7 @@
 ### Focusing on
 - IoT, Embedded Systems
 - Networking
-- Backend
+- Scripting, Backend
 
 ### Projects
 - [GvidApp](https://github.com/F3lda/GvidApp)
