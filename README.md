@@ -3,7 +3,7 @@
 ### My Skills
 - C/C++, PHP, JavaScript
 - Python, Java, SQL, Bash
-- Arduino, RaspberryPi
+- Arduino, ESP32, RaspberryPi
 - Switching, Routing, Wireless
 
 ### Focusing on
