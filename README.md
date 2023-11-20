@@ -1,19 +1,26 @@
 # 👋 Hello world! - Welcome to my GitHub profile! 
 
-### My Skills
+### 🎓 My Skills
 - C/C++, PHP, JavaScript
 - Python, Java, SQL, Bash
 - Arduino, ESP32, RaspberryPi
 - Switching, Routing, Wireless
 
-### Focusing on
+### 📖 Focusing on
 - IoT, Embedded Systems
 - Networking
 - Scripting, Backend
 
-### Projects
+### 🖥️ Top Projects
 - [GvidApp](https://github.com/F3lda/GvidApp)
 - [SIM900 Gate Controller](https://github.com/F3lda/arduino-SIM900_example/tree/master/examples/SIM900_gate)
+
+### 📈 Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F3lda&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F3lda&theme=dracula)
+
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F3lda&theme=dracula -->
+<!-- https://github-stats-alpha.vercel.app/api?username=F3lda&cc=22272e&tc=37BCF6&ic=fff&bc=0000 -->
 
 <!--
 ### Working on
