@@ -12,6 +12,7 @@
 - Scripting, Backend
 
 ### 🖥️ Top Projects
+- [HistoR](https://github.com/F3lda/BP-HistoR)
 - [GvidApp](https://github.com/F3lda/GvidApp)
 - [SIM900 Gate Controller](https://github.com/F3lda/arduino-SIM900_example/tree/master/examples/SIM900_gate)
 
